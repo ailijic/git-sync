@@ -22,6 +22,8 @@ function start () {
 
   main();
   function main () {
-    exec("ls -lah");
+    exec("git add .");
+    exec("git commit");
+    exec("git push");
   };
 };
