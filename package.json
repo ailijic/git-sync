@@ -1,0 +1,19 @@
+{
+  "name": "git-sync",
+  "version": "0.0.1",
+  "description": "node script that runs git add, git commit, and git push",
+  "main": "git-sync",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ailijic/git-sync.git"
+  },
+  "author": "Andrew Ilijic",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ailijic/git-sync/issues"
+  },
+  "homepage": "https://github.com/ailijic/git-sync#readme"
+}
