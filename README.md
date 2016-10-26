@@ -1,2 +1,5 @@
 # git-sync
-node script that runs git add, git commit, and git push
+node script that runs:
+git add 
+git commit
+git push
